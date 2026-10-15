@@ -33,6 +33,8 @@ faiss-cpu
 pandas
 pydantic
 plotly
+docx2txt
+llama-index
 
 llama-index
 llama-index-embeddings-huggingface
