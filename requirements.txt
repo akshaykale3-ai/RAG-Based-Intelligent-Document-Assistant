@@ -1,0 +1,39 @@
+# Langchain
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-experimental
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-ollama
+
+# Environmental variable
+python-dotenv
+
+# Python - jupyter kernel
+ipykernel
+
+# Google GenAI
+google-genai
+
+scikit-learn
+
+streamlit
+langchain-huggingface
+langchain_tavily
+yfinance
+sentence-transformers
+torch
+torchvision
+langchain-text-splitters
+langgraph
+faiss-cpu
+pandas
+pydantic
+plotly
+
+llama-index
+llama-index-embeddings-huggingface
+llama-index-readers-file
